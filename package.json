@@ -1,7 +1,7 @@
 {
-  "name": "html2pdf.js",
-  "version": "0.9.3",
-  "description": "Client-side HTML-to-PDF rendering using pure JS",
+  "name": "html2pdf.js-stable-fix",
+  "version": "0.9.4",
+  "description": "Client-side HTML-to-PDF rendering using pure JS - Fork to fix pdf generated overlay and blank issue. Original credited to Erik Koopmans",
   "main": "dist/require/html2pdf.cjs.js",
   "module": "dist/include/html2pdf.es.js",
   "browser": "dist/html2pdf.js",
