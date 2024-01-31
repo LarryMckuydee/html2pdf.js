@@ -28,10 +28,11 @@
   "homepage": "https://ekoopmans.github.io/html2pdf.js/",
   "dependencies": {
     "es6-promise": "^4.2.5",
-    "html2canvas": "^1.0.0-alpha.12",
-    "jspdf": "1.4.1"
+    "html2canvas": "https://github.com/eKoopmans/html2canvas/tarball/develop",
+    "jspdf": "^1.4.1"
   },
   "devDependencies": {
+    "@types/jspdf": "^2.0.0",
     "babel-core": "^6.26.3",
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-plugin-transform-object-assign": "^6.22.0",
